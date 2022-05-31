@@ -1,2 +1,2 @@
 # Somi
-Teasers álbum XOXO
+HTML,CSS;
