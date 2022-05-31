@@ -1,2 +1,2 @@
 # Somi
-HTML,CSS;
+Learning HTML CSS;
